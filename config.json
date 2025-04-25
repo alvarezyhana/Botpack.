@@ -22,10 +22,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "Aeron Ao",
+  "PREFIX": ".",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "61564459952029",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
